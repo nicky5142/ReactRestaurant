@@ -1,0 +1,79 @@
+{
+  "mains": [],
+  "rice": [
+    {
+      "name": "滷肉飯(小)",
+      "price": "20"
+    },
+    {
+      "name": "滷肉飯(大)",
+      "price": "40"
+    },
+    {
+      "name": "白飯",
+      "price": "10"
+    },
+    {
+      "name": "肉羹飯",
+      "price": "40"
+    },
+    {
+      "name": "香腸加鴨肉便當",
+      "price": "65"
+    },
+    {
+      "name": "豬腳便當",
+      "price": "70"
+    }
+  ],
+  "sides": [
+    {
+      "name": "招牌香腸",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    },
+    {
+      "name": "豬腳",
+      "small_price": "35",
+      "large_price": "60",
+      "category": "drink"
+    },
+    {
+      "name": "鴨肉",
+      "small_price": "60",
+      "large_price": "100",
+      "category": "drink"
+    },
+    {
+      "name": "涼拌小黃瓜",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    },
+    {
+      "name": "桂竹筍",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    },
+    {
+      "name": "苦瓜",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    },
+    {
+      "name": "花椰菜",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    },
+    {
+      "name": "高麗菜",
+      "small_price": "30",
+      "large_price": "50",
+      "category": "drink"
+    }
+  ]
+}
