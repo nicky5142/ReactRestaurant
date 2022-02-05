@@ -7,6 +7,10 @@ export default function Total() {
 
   const totalPrice = Object.keys(items).reduce((acc, curr) => {
     const [group, item, size] = curr.split("-");
+    console.log(group);
+    console.log(item);
+    console.log(size);
+
     var amount = 0;
     if (size === "small") amount = items[curr] * data[group][item].small_price;
     else if (size === "large")
